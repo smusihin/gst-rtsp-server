@@ -3,6 +3,7 @@ examples = [
   'test-appsrc2',
   'test-auth',
   'test-auth-digest',
+  'test-dynamic-splitmuxsink',
   'test-launch',
   'test-mp4',
   'test-multicast2',
